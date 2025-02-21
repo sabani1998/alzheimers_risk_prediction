@@ -6,3 +6,5 @@ Alzheimer’s disease (AD) is a progressive neurological disorder that affects m
 
 The datasets used in this project include publicly available and restricted datasets:
 
+- [Kaggle Alzheimer’s Disease Risk Prediction Dataset](https://www.kaggle.com/competitions/alzheimers-disease-risk-prediction-eu-business/data): This dataset includes health-related features for predicting AD diagnosis, categorized as either 0 (No Alzheimer’s Disease) or 1 (Alzheimer’s Disease).
+
